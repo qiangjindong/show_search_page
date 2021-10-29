@@ -1,8 +1,8 @@
-name: search_page
+name: show_search_page
 description: A new Flutter package project.
 version: 0.0.1
-homepage: https://github.com/qiangjindong/search_page
-repository: https://github.com/qiangjindong/search_page
+homepage: https://github.com/qiangjindong/show_search_page
+repository: https://github.com/qiangjindong/show_search_page
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
